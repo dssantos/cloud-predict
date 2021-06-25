@@ -1,0 +1,8 @@
+numpy
+jupyter
+pandas
+keras
+sklearn
+matplotlib
+tensorflow
+networkx

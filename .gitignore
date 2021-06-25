@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.cloud_predict/
+.env
+*.sqlite3
+*.pyc
+__pycache__
+staticfiles
+.vscode
+
