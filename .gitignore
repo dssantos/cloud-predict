@@ -7,3 +7,4 @@ __pycache__
 staticfiles
 .vscode
 saved_models/
+.cloud-predict/
