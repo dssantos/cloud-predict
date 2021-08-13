@@ -8,3 +8,5 @@ staticfiles
 .vscode
 saved_models/
 .cloud-predict/
+nohup.out
+
